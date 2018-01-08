@@ -1,1 +1,9 @@
 auto_accept: True
+
+file_roots:
+  base:
+    - /srv/salt
+    - /srv/salt/common
+  libdev:
+    - /srv/salt/libdev
+    - /srv/salt/common
